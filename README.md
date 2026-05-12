@@ -70,3 +70,7 @@ Los días martes y viernes de 8:30am a 12:50pm.
 | 16a              | 06-30 mar  | semana exclusiva de trabajo en talleres              |                    |
 | 16b              | 07-03 vie  | semana exclusiva de trabajo en talleres              |                    |
 | examen           | 07-06/10   | examen de taller, fecha por definir                  |                    |
+
+## Bibliografía
+
+- Flusser, Vilém, Hacia una filosofía de la fotografía, 1983, disponible en <https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf>.
