@@ -279,6 +279,8 @@ partitura e interpretación
 
 detallar operación de la partitura, como se creó, cuales fueron los referentes (citando), cual es la simbología
 
+--------------------------
+
 ## bibliografía
 
 # REFERENTES
